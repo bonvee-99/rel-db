@@ -1,0 +1,29 @@
+Notes:
+
+- Commands:
+Select: SELECT * FROM TABLE
+Insert: INSERT data TABLE
+Delete: DELETE from  
+Update:
+
+- Types: 
+String: "hi"
+Numbers: 3
+Boolean: True/False
+
+Later... other tables
+
+TODO:
+- sql parser (LL Parser)
+- data model
+- data -> txt files (btree)
+- txt files -> data
+
+- evmap?
+
+Parser:
+- lexical analysis (tokenizer):
+
+- syntactic analysis (AST)
+
+
